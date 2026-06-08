@@ -38,6 +38,7 @@ This project requires **Python 3.8+**. Follow these quick steps to get the envir
 
 2. **Install dependencies:**
    ```bash
+   pip install -r requirements.txt
    pip install pandas numpy scikit-learn
    ```
 
